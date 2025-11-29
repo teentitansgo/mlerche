@@ -137,7 +137,7 @@
     {
         "path": "/authors/sebik/index.html",
         "type": "file",
-        "md5": "16e0023f79782bfdce08878c25722b2c"
+        "md5": "74f660b9b19a8443fc62ca4eecbb333c"
     },
     {
         "path": "diametrale-kunst.html",
@@ -147,17 +147,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ac4297b0002df4d0a980f0cd3f90131b"
+        "md5": "50d7ac588a492e0ec4904e696f506a4c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "70748df5fbebc8ee4bd3381e624be0f8"
+        "md5": "9a260ebcdabdf2d861098668f6519140"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c5591bdb853255e1d99cb29557d17946"
+        "md5": "b3b9589b2a88ea11909640b22be89de3"
     },
     {
         "path": "media",
@@ -220,6 +220,36 @@
         "md5": "9513843fbe76c69820c84caf6578b821"
     },
     {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/art1.png",
+        "type": "file",
+        "md5": "a20555038fbdb21dc7c82d1a2d6bd451"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/art1-md.png",
+        "type": "file",
+        "md5": "d8a24e154da49ddb7aff8184a2ad485c"
+    },
+    {
+        "path": "/media/posts/2/responsive/art1-sm.png",
+        "type": "file",
+        "md5": "7f513a0fcd3ad4516a320aac56e51253"
+    },
+    {
+        "path": "/media/posts/2/responsive/art1-xs.png",
+        "type": "file",
+        "md5": "f44b7f4915583349168c78b56b699686"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "1ad58d176c15b6d09e730a556e6797fb"
@@ -227,7 +257,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a84034f88a8bd0af5c0a63d9632d624e"
+        "md5": "730fa52bfda278f6de25def240e233a8"
     },
     {
         "path": "sitemap.xsl",
@@ -243,5 +273,10 @@
         "path": "/tags/index.html",
         "type": "file",
         "md5": "7afeb92eb24a36fa35c59350348c2b6b"
+    },
+    {
+        "path": "vernissage-agathe.html",
+        "type": "file",
+        "md5": "69552428fb5c967760f1eb563b0e2d11"
     }
 ]

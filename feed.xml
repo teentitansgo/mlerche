@@ -3,12 +3,33 @@
     <title>Lerche.Art</title>
     <link href="https://teentitansgo.github.io/mlerche/feed.xml" rel="self" />
     <link href="https://teentitansgo.github.io/mlerche" />
-    <updated>2025-11-29T11:56:35+01:00</updated>
+    <updated>2025-11-29T12:34:17+01:00</updated>
     <author>
         <name>Sebik</name>
     </author>
     <id>https://teentitansgo.github.io/mlerche</id>
 
+    <entry>
+        <title>Vernissage Agathe</title>
+        <author>
+            <name>Sebik</name>
+        </author>
+        <link href="https://teentitansgo.github.io/mlerche/vernissage-agathe.html"/>
+        <id>https://teentitansgo.github.io/mlerche/vernissage-agathe.html</id>
+
+        <updated>2025-11-29T12:34:17+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    In der Kaffeerösterei Agathe hatte ich meine letzte Ausstellung meiner diametralen Kunst. Es war super.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In der Kaffeerösterei Agathe hatte ich meine letzte Ausstellung meiner diametralen Kunst. Es war super.</p>
+<figure class="post__image"><img loading="lazy"  src="https://teentitansgo.github.io/mlerche/media/posts/2/art1.png" alt="" width="852" height="758" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teentitansgo.github.io/mlerche/media/posts/2/responsive/art1-xs.png 300w ,https://teentitansgo.github.io/mlerche/media/posts/2/responsive/art1-sm.png 480w ,https://teentitansgo.github.io/mlerche/media/posts/2/responsive/art1-md.png 768w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Diametrale Kunst</title>
         <author>
