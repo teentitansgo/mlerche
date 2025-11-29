@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Lerche.Art</title>
+    <link href="https://teentitansgo.github.io/mlerche/feed.xml" rel="self" />
+    <link href="https://teentitansgo.github.io/mlerche" />
+    <updated>2025-11-29T11:56:35+01:00</updated>
+    <author>
+        <name>Sebik</name>
+    </author>
+    <id>https://teentitansgo.github.io/mlerche</id>
+
+    <entry>
+        <title>Diametrale Kunst</title>
+        <author>
+            <name>Sebik</name>
+        </author>
+        <link href="https://teentitansgo.github.io/mlerche/diametrale-kunst.html"/>
+        <id>https://teentitansgo.github.io/mlerche/diametrale-kunst.html</id>
+
+        <updated>2025-11-29T11:48:16+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Willkommen auf den Seiten von Lerche.Art! Ich bin freischaffender Hobby-Künstler ansässig in Mannheim. Veranstalte regelmäßig Ausstellungen und Kunst- und Musikevents.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Willkommen auf den Seiten von Lerche.Art!</p>
+<p>Ich bin freischaffender Hobby-Künstler ansässig in Mannheim. Veranstalte regelmäßig Ausstellungen und Kunst- und Musikevents.</p>
+<figure class="post__image"><img loading="lazy"  src="https://teentitansgo.github.io/mlerche/media/posts/1/lerche_mensch.jpg" alt="" width="900" height="2000" sizes="(max-width: 48em) 100vw, 768px" srcset="https://teentitansgo.github.io/mlerche/media/posts/1/responsive/lerche_mensch-xs.jpg 300w ,https://teentitansgo.github.io/mlerche/media/posts/1/responsive/lerche_mensch-sm.jpg 480w ,https://teentitansgo.github.io/mlerche/media/posts/1/responsive/lerche_mensch-md.jpg 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
